@@ -1,0 +1,17 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Short Swords Pack",
+    "description": "Short versions of all swords.",
+    "uuid": "68ad6c3b-c274-4996-9c38-bdb8d4510b17",
+    "version": [1, 0, 0],
+    "min_engine_version": [1, 20, 0]
+  },
+  "modules": [
+    {
+      "type": "resources",
+      "uuid": "51cb2db6-66d7-4e2f-9947-cbbd36c90fd3",
+      "version": [1, 0, 0]
+    }
+  ]
+}
